@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm currently working with:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow" />
+  </a>
+</p>
+
 
 <!--
 **Aditya-Tejaswi/Aditya-Tejaswi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
