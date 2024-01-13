@@ -2,10 +2,12 @@
 I'm currently working with:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,docker" />
   </a>
 </p>
 
+### Some preliminary stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Tejaswi&theme=darcula&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **Aditya-Tejaswi/Aditya-Tejaswi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
