@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently working with:
+I'm currently working/learning to work with:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,docker" />
